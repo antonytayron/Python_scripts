@@ -12,7 +12,7 @@ ip=sys.argv[1]
 user=sys.argv[2]
 password=sys.argv[3]
 switchname=sys.argv[4]
-tftp_server="192.168.10.4"
+tftp_server=sys.argv[5]
 
 
 child = pexpect.spawn("ssh "+user+"@"+ip)
