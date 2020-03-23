@@ -1,4 +1,3 @@
-# Python_scripts
-Repositórios de scripts em python
+# Python scripts
 
 Alguns scrpts em python desenvolvidos para algumas automações.
